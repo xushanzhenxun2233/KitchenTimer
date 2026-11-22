@@ -1,14 +1,14 @@
-package com.kitchentimer.app.viewmodel
+package com.jinpengchuike.app.viewmodel
 
 import android.app.Application
 import android.os.SystemClock
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.kitchentimer.app.audio.AlarmSoundManager
-import com.kitchentimer.app.data.DishRepository
-import com.kitchentimer.app.model.ActiveDishTimer
-import com.kitchentimer.app.model.DishPreset
-import com.kitchentimer.app.model.TimerStatus
+import com.jinpengchuike.app.audio.AlarmSoundManager
+import com.jinpengchuike.app.data.DishRepository
+import com.jinpengchuike.app.model.ActiveDishTimer
+import com.jinpengchuike.app.model.DishPreset
+import com.jinpengchuike.app.model.TimerStatus
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

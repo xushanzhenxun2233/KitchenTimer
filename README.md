@@ -1,6 +1,6 @@
-# 厨房计时器 (KitchenTimer)
+# 金鹏炊刻 (JinpengChuike)
 
-一款专为厨房烹饪场景打造的 Android 原生多菜并行计时软件（Kotlin + Jetpack Compose）。
+一款专为厨房烹饪场景打造的 Android 原生多菜并行计时软件（Kotlin + Jetpack Compose），包名 `com.jinpengchuike.app`。
 
 ## 核心特性
 

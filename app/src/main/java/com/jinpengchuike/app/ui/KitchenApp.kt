@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui
+package com.jinpengchuike.app.ui
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Row
@@ -35,10 +35,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.kitchentimer.app.model.DishPreset
-import com.kitchentimer.app.model.TimerStatus
-import com.kitchentimer.app.ui.theme.WarmOrange
-import com.kitchentimer.app.viewmodel.KitchenTimerViewModel
+import com.jinpengchuike.app.model.DishPreset
+import com.jinpengchuike.app.model.TimerStatus
+import com.jinpengchuike.app.ui.theme.WarmOrange
+import com.jinpengchuike.app.viewmodel.KitchenTimerViewModel
 
 private enum class MainTab {
     COOKING,

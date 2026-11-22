@@ -1,4 +1,4 @@
-package com.kitchentimer.app
+package com.jinpengchuike.app
 
 import android.os.Bundle
 import android.view.WindowManager
@@ -9,9 +9,9 @@ import androidx.activity.viewModels
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import com.kitchentimer.app.ui.KitchenApp
-import com.kitchentimer.app.ui.theme.KitchenTimerTheme
-import com.kitchentimer.app.viewmodel.KitchenTimerViewModel
+import com.jinpengchuike.app.ui.KitchenApp
+import com.jinpengchuike.app.ui.theme.KitchenTimerTheme
+import com.jinpengchuike.app.viewmodel.KitchenTimerViewModel
 
 class MainActivity : ComponentActivity() {
 

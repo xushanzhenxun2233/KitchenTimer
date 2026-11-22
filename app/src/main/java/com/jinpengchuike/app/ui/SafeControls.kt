@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui
+package com.jinpengchuike.app.ui
 
 import android.os.SystemClock
 import androidx.compose.foundation.BorderStroke
@@ -23,7 +23,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shape
 import androidx.compose.ui.unit.dp
-import com.kitchentimer.app.ui.theme.WarmOrange
+import com.jinpengchuike.app.ui.theme.WarmOrange
 import kotlinx.coroutines.delay
 
 /**

@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui.theme
+package com.jinpengchuike.app.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

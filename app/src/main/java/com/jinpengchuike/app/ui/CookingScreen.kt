@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui
+package com.jinpengchuike.app.ui
 
 import androidx.compose.animation.animateColor
 import androidx.compose.animation.core.RepeatMode
@@ -61,14 +61,14 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.kitchentimer.app.model.ActiveDishTimer
-import com.kitchentimer.app.model.DishPreset
-import com.kitchentimer.app.model.TimerStatus
-import com.kitchentimer.app.model.formatCountdownMillis
-import com.kitchentimer.app.model.formatDurationSeconds
-import com.kitchentimer.app.ui.theme.AlarmRed
-import com.kitchentimer.app.ui.theme.SuccessGreen
-import com.kitchentimer.app.ui.theme.WarmOrange
+import com.jinpengchuike.app.model.ActiveDishTimer
+import com.jinpengchuike.app.model.DishPreset
+import com.jinpengchuike.app.model.TimerStatus
+import com.jinpengchuike.app.model.formatCountdownMillis
+import com.jinpengchuike.app.model.formatDurationSeconds
+import com.jinpengchuike.app.ui.theme.AlarmRed
+import com.jinpengchuike.app.ui.theme.SuccessGreen
+import com.jinpengchuike.app.ui.theme.WarmOrange
 
 @Composable
 fun CookingScreen(

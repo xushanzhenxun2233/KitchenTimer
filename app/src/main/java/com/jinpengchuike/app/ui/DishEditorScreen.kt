@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui
+package com.jinpengchuike.app.ui
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.clickable
@@ -54,10 +54,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.kitchentimer.app.model.DISH_ICON_OPTIONS
-import com.kitchentimer.app.model.DishPreset
-import com.kitchentimer.app.model.DishStep
-import com.kitchentimer.app.model.formatDurationChinese
+import com.jinpengchuike.app.model.DISH_ICON_OPTIONS
+import com.jinpengchuike.app.model.DishPreset
+import com.jinpengchuike.app.model.DishStep
+import com.jinpengchuike.app.model.formatDurationChinese
 import java.util.UUID
 
 private data class EditableStep(

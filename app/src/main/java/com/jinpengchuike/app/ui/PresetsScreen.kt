@@ -1,4 +1,4 @@
-package com.kitchentimer.app.ui
+package com.jinpengchuike.app.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -43,10 +43,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.kitchentimer.app.model.DishPreset
-import com.kitchentimer.app.model.formatDurationChinese
-import com.kitchentimer.app.model.formatDurationSeconds
-import com.kitchentimer.app.ui.theme.WarmOrange
+import com.jinpengchuike.app.model.DishPreset
+import com.jinpengchuike.app.model.formatDurationChinese
+import com.jinpengchuike.app.model.formatDurationSeconds
+import com.jinpengchuike.app.ui.theme.WarmOrange
 
 @Composable
 fun PresetsScreen(

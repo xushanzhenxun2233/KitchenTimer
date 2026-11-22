@@ -1,4 +1,4 @@
-package com.kitchentimer.app.model
+package com.jinpengchuike.app.model
 
 import java.util.UUID
 
